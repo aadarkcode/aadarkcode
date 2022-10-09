@@ -1,2 +1,2 @@
 <link rel="stylesheet" href="style.css">
-<a href="https://google.com" target="blank"><img color: aliceblue; width:500px; src="https://github.com/aadarkcode/aadarkcode/blob/main/1-square-fill.svg" alt=""></a>
+<a color: aliceblue; width:500px; href="https://google.com" target="blank"><img src="https://github.com/aadarkcode/aadarkcode/blob/main/1-square-fill.svg" alt=""></a>
